@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web app development
 - 🌱 I’m currently learning ... WordPress, MEAN/MERN stack, CI, Laravel, AWS, etc. Full stack web.
 - 💞️ I’m looking to collaborate on ... long-term position.
-- 📫 How to reach me ... 😂
+- 📫 How to reach me ... https://donworkz.github.io/DonelleMoore/
 
 <!---
 DonWorkZ/DonWorkZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
