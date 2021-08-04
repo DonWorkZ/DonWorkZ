@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DonWorkZ
+- 👋 Hi, I’m 
 - 👀 I’m interested in ... Web app development
 - 🌱 I’m currently learning ... WordPress, MEAN/MERN stack, CI, Laravel, AWS, etc. Full stack web.
 - 💞️ I’m looking to collaborate on ... long-term position.
